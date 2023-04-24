@@ -1,4 +1,4 @@
-# Trie-Tree 
+# My implementation for Trie-Tree 
 No limit on the value of children except the $ character
 
 # Functions
